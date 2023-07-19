@@ -1,1 +1,9 @@
 # school-rent-analysis
+
+
+# Project Description
+School choice in renting vs. buying. The choice between renting versus buying housing has been a highly debated topic in therecent years, especially with high volatility of the prices of real estate.  Zillow the mostused real estate search platform in the US which offers information on activity on realestate and rental listings (in terms of the numbers of views) as well as detailed informationon the area where the property is located including “GreatSchools” rating.  The project is devoted to evaluate if the quality of schools has an effect of the decision of individualsto buys vs rent housing based on the relative activity on rental and for sale listings. The following are the specific steps this project would take:
+1.  Identify a market which is going to be the focus of your analysis.  This could be acity, a county or a specific zip code.  Provide motivation for your choice.
+2.  Provide an approach to collect the relevant data from Zillow on the current rentaland  for  sale  properties  in  your  market  as  well  as  specific  information  on  thoseproperties  including  prices,  property  characteristics  (square  footage,  number  of bedrooms) as well as the information on the school quality and the number of userviews of the property.  Collect the dataset of sufficient size (you determine whichsize is sufficient for your analysis).
+3.  Provide an approach to make the prices of rental and for sale listings compatible.Note that rental prices are per month while the for sale prices are for the entireproperty purchase.
+4.  Using the number of user views as a proxy for the relative interest of Zillow users in a specific listing, construct a model that would identify how users select to viewrental listings versus for sale listings and the role the quality of schools plays in thischoice
